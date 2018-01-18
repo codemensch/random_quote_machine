@@ -1,7 +1,12 @@
-.main {
-    padding-top: 300px;
+.card {
+    margin-top: 50px;
 }
 
 #buttons {
-    padding-top: 50px;
+    padding-top: 150px;
 }
+
+#quote {
+    font-size: x-large;
+}
+
